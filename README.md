@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Thomas Trotter  
-### MSci Artificial Intelligence Student | Aspiring Machine Learning Engineer | KCL '26
+### MSci Artificial Intelligence Student | Aspiring Machine Learning Engineer | KCL '28
 
 ---
 
