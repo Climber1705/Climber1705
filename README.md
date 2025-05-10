@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 About Me  
-I'm an MSci Artificial Intelligence student at King's College London with a deep interest in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm currently seeking summer internship opportunities for 2026 to grow my skills in a fast-paced, hands-on environment.
+I'm an MSci Artificial Intelligence student at King's College London with a deep interest in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm seeking summer internship opportunities for 2026 to grow my skills in a fast-paced, hands-on environment.
 
 ---
 
@@ -47,7 +47,7 @@ I'm an MSci Artificial Intelligence student at King's College London with a deep
 - **Habitat Simulation (JavaFX)**  
   Created a JavaFX application simulating a habitat with complex food chain interactions.  
   - Implemented object-oriented principles in Java  
-  - Modeled predator-prey dynamics and environmental factors  
+  - Modelled predator-prey dynamics and environmental factors  
   - [GitHub Repo](https://github.com/Climber1705/habitat-simulation)
 
 - **Image Processing API (FastAPI)**  
@@ -74,12 +74,6 @@ I'm an MSci Artificial Intelligence student at King's College London with a deep
 - React.js  
 - Advanced FastAPI features  
 - Data Structures and Algorithms in Python  
-
----
-
-## 📊 GitHub Stats  
-
-![Climber1705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Climber1705&show_icons=true&theme=radical)
 
 ---
 
