@@ -71,7 +71,7 @@ I'm an MSci Artificial Intelligence student at King's College London with an int
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Currently Learning  
-- React.js  
+- React.js with Typescript
 - Advanced FastAPI features  
 - Data Structures and Algorithms in Python  
 
