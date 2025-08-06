@@ -29,9 +29,9 @@ I'm an MSci Artificial Intelligence student at King's College London with an int
 ### 📘 Upcoming
 - **5CCSAMLF - Machine Learning**
 - **5CCSACCA - Cloud Computing for Artifical Intelligence**
-- **5CCAFCT Foundations of Computional Theory**
-- **5CCSAKNF Knowledge Engineering**
-- **5CCSADSC Data Science**
+- **5CCAFCT - Foundations of Computional Theory**
+- **5CCSAKNF - Knowledge Engineering**
+- **5CCSADSC - Data Science**
 
 ---
 
