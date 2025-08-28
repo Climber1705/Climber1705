@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 About Me  
-I'm an MSci Artificial Intelligence student at King's College London with an interest in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm seeking summer internship opportunities for 2026 to grow my skills in a hands-on environment.
+I'm an MSci Artificial Intelligence student at King's College London, with interests in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm seeking summer internship opportunities for 2026 to grow my skills in a hands-on environment.
 
 ---
 
@@ -22,13 +22,13 @@ I'm an MSci Artificial Intelligence student at King's College London with an int
 - **4CCSAWIS – Web and Internet Systems**  
   Client-server architecture, REST APIs, web technologies.  
 - **4CCSAPPA – Programming Practice and Applications**  
-  Java, object-oriented programming, Javafx.  
+  Java, object-oriented programming, JavaFX.  
 - **4CCSAMAI – Mathematics and Statistics for AI**  
   Calculus, probability, statistics, and linear algebra for machine learning.
   
 ### 📘 Upcoming
 - **5CCSAMLF - Machine Learning**
-- **5CCSACCA - Cloud Computing for Artifical Intelligence**
+- **5CCSACCA - Cloud Computing for Artificial Intelligence**
 - **5CCAFCT - Foundations of Computional Theory**
 - **5CCSAKNF - Knowledge Engineering**
 - **5CCSADSC - Data Science**
@@ -89,4 +89,5 @@ I'm an MSci Artificial Intelligence student at King's College London with an int
 - 🧑‍💻 GitHub: [github.com/Climber1705](https://github.com/Climber1705)  
 
 ---
+
 
