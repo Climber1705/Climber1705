@@ -25,11 +25,13 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
   Java, object-oriented programming, JavaFX.  
 - **4CCSAMAI – Mathematics and Statistics for AI**  
   Calculus, probability, statistics, and linear algebra for machine learning.
-  
-### 📘 Upcoming
+
+### 🧩 Current
 - **5CCSAMLF - Machine Learning**
 - **5CCSACCA - Cloud Computing for Artificial Intelligence**
 - **5CCAFCT - Foundations of Computional Theory**
+
+### 📘 Upcoming
 - **5CCSAKNF - Knowledge Engineering**
 - **5CCSADSC - Data Science**
 
