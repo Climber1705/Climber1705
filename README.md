@@ -28,7 +28,6 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 
 ### 🧩 Current
 - **5CCSAMLF - Machine Learning**
-  Fundamental machine learning concepts, method, pratical Python applications, and ethical considerations.
 - **5CCSACCA - Cloud Computing for Artificial Intelligence**
 - **5CCAFCT - Foundations of Computional Theory**
 
