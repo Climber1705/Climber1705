@@ -7,6 +7,32 @@
 I'm an MSci Artificial Intelligence student at King's College London, with interests in machine learning, AI systems, and full-stack development. I enjoy building projects that solve real-world problems using code and intelligent algorithms. I'm seeking summer internship opportunities for 2026 to grow my skills in a hands-on environment.
 
 ---
+## 💻 Projects
+- **Image Processing API (FastAPI)**  
+  Built a FastAPI service for image management, processing, and object detection tasks.  
+  - Leveraged Python libraries for image analysis  
+  - Designed RESTful endpoints for efficient API interactions  
+  - [GitHub Repo](https://github.com/Climber1705/image-processing-api)
+
+- **Connect4 Minimax AI**  
+  Developed a Connect4 game featuring an AI opponent using the Minimax algorithm with Alpha-Beta pruning.  
+  - Implemented in Python  
+  - Demonstrates adversarial search and game theory concepts  
+  - [GitHub Repo](https://github.com/Climber1705/connect4-minimax)
+
+- **Damped Pendulum Simulation**  
+  Simulated the motion of a damped pendulum to study its behaviour under gravity and damping forces.  
+  - Utilised Python for numerical modelling  
+  - Visualised oscillatory motion and energy dissipation  
+  - [GitHub Repo](https://github.com/Climber1705/damped-pendulum-simulation)
+
+- **Habitat Simulation (JavaFX)**  
+  Created a JavaFX application simulating a habitat with complex food chain interactions.  
+  - Implemented object-oriented principles in Java  
+  - Modelled predator-prey dynamics and environmental factors  
+  - [GitHub Repo](https://github.com/Climber1705/habitat-simulation)
+
+---
 
 ## 📚 Academic Modules  
 
@@ -37,32 +63,6 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 
 ---
 
-## 💻 Projects
-- **Image Processing API (FastAPI)**  
-  Built a FastAPI service for image management, processing, and object detection tasks.  
-  - Leveraged Python libraries for image analysis  
-  - Designed RESTful endpoints for efficient API interactions  
-  - [GitHub Repo](https://github.com/Climber1705/image-processing-api)
-
-- **Connect4 Minimax AI**  
-  Developed a Connect4 game featuring an AI opponent using the Minimax algorithm with Alpha-Beta pruning.  
-  - Implemented in Python  
-  - Demonstrates adversarial search and game theory concepts  
-  - [GitHub Repo](https://github.com/Climber1705/connect4-minimax)
-
-- **Damped Pendulum Simulation**  
-  Simulated the motion of a damped pendulum to study its behaviour under gravity and damping forces.  
-  - Utilised Python for numerical modelling  
-  - Visualised oscillatory motion and energy dissipation  
-  - [GitHub Repo](https://github.com/Climber1705/damped-pendulum-simulation)
-
-- **Habitat Simulation (JavaFX)**  
-  Created a JavaFX application simulating a habitat with complex food chain interactions.  
-  - Implemented object-oriented principles in Java  
-  - Modelled predator-prey dynamics and environmental factors  
-  - [GitHub Repo](https://github.com/Climber1705/habitat-simulation)
----
-
 ## 🛠️ Technical Skills  
 
 ### Languages  
@@ -75,10 +75,8 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Currently Learning  
-- React.js with Typescript
-- Advanced FastAPI features  
-- Data Structures and Algorithms in Python  
-
+- PyTorch  
+- Docker
 ---
 
 ## 📫 Let's Connect  
