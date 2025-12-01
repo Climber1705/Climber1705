@@ -38,6 +38,11 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 ---
 
 ## 💻 Projects
+- **Image Processing API (FastAPI)**  
+  Built a FastAPI service for image management, processing, and object detection tasks.  
+  - Leveraged Python libraries for image analysis  
+  - Designed RESTful endpoints for efficient API interactions  
+  - [GitHub Repo](https://github.com/Climber1705/image-processing-api)
 
 - **Connect4 Minimax AI**  
   Developed a Connect4 game featuring an AI opponent using the Minimax algorithm with Alpha-Beta pruning.  
@@ -56,14 +61,6 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
   - Implemented object-oriented principles in Java  
   - Modelled predator-prey dynamics and environmental factors  
   - [GitHub Repo](https://github.com/Climber1705/habitat-simulation)
-
-- **Image Processing API (FastAPI)**  
-  Built a FastAPI service for image management, processing, and object detection tasks.  
-  - Leveraged Python libraries for image analysis  
-  - Designed RESTful endpoints for efficient API interactions  
-  - [GitHub Repo](https://github.com/Climber1705/image-processing-api)
-
-
 ---
 
 ## 🛠️ Technical Skills  
@@ -87,7 +84,7 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 ## 📫 Let's Connect  
 
 - ✉️ Email: [thomas.trotter@kcl.ac.uk](mailto:thomas.trotter@kcl.ac.uk)  
-- 💼 LinkedIn: [linkedin.com/in/thomas-trotter](https://www.linkedin.com/in/thomas-trotter-090515343/)   
+- 💼 LinkedIn: [linkedin.com/in/thomas-trotter](https://www.linkedin.com/in/thomas-trotter/)   
 - 🧑‍💻 GitHub: [github.com/Climber1705](https://github.com/Climber1705)  
 
 ---
