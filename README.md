@@ -53,14 +53,16 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
   Calculus, probability, statistics, and linear algebra for machine learning.
 
 ### 🧩 Current
-- **5CCSAMLF - Machine Learning**
-- **5CCSACCA - Cloud Computing for Artificial Intelligence**
-- **5CCAFCT - Foundations of Computional Theory**
-
-### 📘 Upcoming
-- **5CCSAKNF - Knowledge Engineering**
-- **5CCSADSC - Data Science**
-
+- 5CCSAMLF – Machine Learning
+  Supervised and unsupervised learning, neural networks, model evaluation.
+- 5CCSACCA – Cloud Computing for Artificial Intelligence
+  Distributed systems, containerization with Docker, cloud infrastructure and services.
+- 5CCAFCT – Foundations of Computational Theory
+  Automata, computability, complexity classes, and formal languages.
+- 5CCSAKNF – Knowledge Engineering
+  Ontologies, knowledge graphs, semantic reasoning, and expert systems.
+- 5CCSADSC – Data Science
+  Data analysis, visualization, statistical modeling, and exploratory techniques.
 ---
 
 ## 🛠️ Technical Skills  
@@ -75,8 +77,7 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Currently Learning  
-- PyTorch  
-- Docker
+- PyTorch
 ---
 
 ## 📫 Let's Connect  
