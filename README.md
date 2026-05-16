@@ -84,7 +84,7 @@ I'm an MSci Artificial Intelligence student at King's College London, with inter
 
 - ✉️ Email: [thomas.trotter@kcl.ac.uk](mailto:thomas.trotter@kcl.ac.uk)  
 - 💼 LinkedIn: [linkedin.com/in/thomas-trotter](https://www.linkedin.com/in/thomas-trotter/)   
-- 🧑‍💻 GitHub: [github.com/Climber1705](https://github.com/Climber1705)  
+- 🧑‍💻 GitHub: [github.com/Climber1705](https://github.com/thomas-trotter)  
 
 ---
 
